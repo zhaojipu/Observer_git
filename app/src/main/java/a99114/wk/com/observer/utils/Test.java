@@ -16,7 +16,7 @@ public abstract class Test {
     }
 
     public void notifya() {
-
+        System.out.println();
     }
 
 }
